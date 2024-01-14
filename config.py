@@ -48,7 +48,7 @@ class Config(object):
     
     # your telegram account id
     TECH_VJ_OWNER_ID = int(os.environ.get("TECH_VJ_OWNER_ID", "6367495275")) 
-    TECH_VJ_SESSION_NAME = "VJ-URL-UPLOADER-BOT"
+    TECH_VJ_SESSION_NAME = "YouTubeUrlSaverBot"
     
     # database uri (mongodb)
     TECH_VJ_DATABASE_URL = os.environ.get("TECH_VJ_DATABASE_URL", "mongodb+srv://Pushkar123:<password>@cluster0.fwfe68e.mongodb.net/?retryWrites=true&w=majority")
