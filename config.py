@@ -51,7 +51,7 @@ class Config(object):
     TECH_VJ_SESSION_NAME = "YouTubeUrlSaverBot"
     
     # database uri (mongodb)
-    TECH_VJ_DATABASE_URL = os.environ.get("TECH_VJ_DATABASE_URL", "mongodb+srv://Pushkar123:Pushkar123@cluster0.fwfe68e.mongodb.net/?retryWrites=true&w=majority")
+    TECH_VJ_DATABASE_URL = os.environ.get("TECH_VJ_DATABASE_URL", "mongodb+srv://Pushkar1245:Pushkar1245@cluster0.bj5e9u9.mongodb.net/?retryWrites=true&w=majority")
     TECH_VJ_MAX_RESULTS = "50"
 
     # channel information
